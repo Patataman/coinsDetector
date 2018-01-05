@@ -1,0 +1,17 @@
+asn1crypto==0.24.0
+certifi==2017.11.5
+cffi==1.11.2
+chardet==3.0.4
+cryptography==2.1.4
+idna==2.6
+numpy==1.13.3
+pycparser==2.18
+pyOpenSSL==17.5.0
+pysolr==3.7.0
+python-dateutil==2.6.1
+requests==2.18.4
+six==1.11.0
+urllib3==1.22
+watson-developer-cloud>=1.0.2
+#picamera==1.13
+PyAudio==0.2.11
