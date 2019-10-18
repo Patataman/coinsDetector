@@ -9,7 +9,7 @@ pycparser==2.18
 pyOpenSSL==17.5.0
 pysolr==3.7.0
 python-dateutil==2.6.1
-requests==2.18.4
+requests==2.20.0
 six==1.11.0
 urllib3==1.22
 watson-developer-cloud>=1.0.2
