@@ -4,7 +4,7 @@ cffi==1.11.2
 chardet==3.0.4
 cryptography==2.1.4
 idna==2.6
-numpy==1.13.3
+numpy==1.22.0
 pycparser==2.18
 pyOpenSSL==17.5.0
 pysolr==3.7.0
